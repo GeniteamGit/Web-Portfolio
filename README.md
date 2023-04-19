@@ -23,8 +23,10 @@ Local & international conferences online at various levels.
 ### Technologies
 React, Firebase
 <p>
-<img src="assets/gage/1.png" width="230">
-<img src="assets/gage/2.png" width="230">
-<img src="assets/gage/3.png" width="230">
-<img src="assets/gage/4.png" width="230">
+<img src="assets/gage/1.png" width="480">
+<img src="assets/gage/2.png" width="480">
+</p>
+<p>
+<img src="assets/gage/3.png" width="480">
+<img src="assets/gage/4.png" width="480">
 </p>
