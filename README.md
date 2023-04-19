@@ -58,7 +58,7 @@ sweetalert2,
 At enhancing employee engagement and learning through the use of surveys and quizzes related to online gaming. Our
 platform offers a fast-paced and engaging way for employees to learn and assess their knowledge and skills, while also
 providing detailed analytical reports for the backend. Through situational-based learning, we aim to increase the
-efficiency and effectiveness of employees while also evaluating four strengths in one go. Our dynamic content and
+efficiency and effectiveness of employees while also evaluating four strengths in one go. <br> Our dynamic content and
 leaderboard feature offer multi-level engagement for employees, and our analytical reports provide detailed insights for
 employers to improve their training programs. Overall, our platform offers an innovative and effective solution for
 employee training and development.
@@ -97,7 +97,8 @@ styled-components,
 A dynamic platform that allows users to share their stories, connect with others, and
 engage in real-time conversations, as well as read books and listen to audio books. Our app provides a user-friendly
 interface that makes it easy to create and share content, discover new books and audiobooks, and connect with
-like-minded individuals from around the world. With features such as bookshelves, audiobook players, commenting, and
+like-minded individuals from around the world. <br> With features such as bookshelves, audiobook players, commenting,
+and
 liking, our platform fosters a vibrant community that encourages creativity, collaboration, and social interaction, as
 well as a love for literature. Whether you're an avid reader, a writer, or just looking for a new way to connect with
 others, our app provides a fun and engaging space where you can share your passions, discover new content, and build
@@ -136,7 +137,8 @@ uuidv4,
 
 In today's world, online gaming has become a popular source of entertainment for people of all ages. With the increasing
 popularity of games, the demand for competitive gameplay has also increased. This is where our project comes in. Our
-project is a web application built using React.js that allows users to create and manage tournaments for various games.
+project is a web application built using React.js that allows users to create and manage tournaments for various
+games.<br>
 The application automates the entire process of tournament creation and management, including player registration, team
 creation, match scheduling, and tournament bracket generation. The application can be integrated into any type of game,
 making it a versatile tool for game organizers and enthusiasts alike. Overall, our project aims to provide a seamless
@@ -192,4 +194,95 @@ styled-components,
 <p>
 <img src="assets/advance/2.png" width="400">
 <img src="assets/advance/3.png" width="400">
+</p>
+
+## Online Shopping Store
+
+In the digital age, online shopping has become an integral part of our daily lives. With the convenience of shopping
+from the comfort of our own homes, the ability to compare prices and products from multiple retailers, and the option to
+have items delivered directly to our doorstep, it's no wonder that more and more people are turning to online
+shopping.<br>
+Online shopping stores offer a vast array of products from clothing and electronics to groceries and household
+essentials, providing consumers with an unparalleled level of convenience and choice. <br> As such, online shopping has
+revolutionized the way we shop and has become a preferred method for many consumers.
+
+<p>
+<img src="assets/Ecommerce/1.png" width="400">
+<img src="assets/Ecommerce/2.png" width="400">
+</p>
+<p>
+<img src="assets/Ecommerce/3.png" width="400">
+<img src="assets/Ecommerce/4.png" width="400">
+</p>
+
+## Hotel Booking App
+
+Planning a trip can be an exciting experience, but finding the perfect hotel to stay in can be a daunting task.
+Fortunately, the rise of online hotel booking web apps has made the process of finding and booking accommodation easier
+than ever before. <br>
+With just a few clicks, travelers can browse through a vast selection of hotels, compare prices, read
+reviews from previous guests, and book their preferred room or suite. Online hotel booking web apps have revolutionized
+the travel industry by offering a convenient and streamlined way to plan trips and find the perfect place to stay. <br>
+With the ability to search for and book hotels from anywhere in the world, these web apps have become an indispensable
+tool for modern-day travelers.
+
+<p>
+<img src="assets/hotel-management/1.png" width="400">
+<img src="assets/hotel-management/2.png" width="400">
+</p>
+<p>
+<img src="assets/hotel-management/3.png" width="400">
+<img src="assets/hotel-management/4.png" width="400">
+</p>
+
+## Sybo
+
+We help startups increase their value and maximize
+their potential as a company.<br>
+Getting any startup idea out of the gates can be tough and intimidating.
+Sybo offers easy-to-use tools to help you to take actions and get started.
+<br>
+Even though you feel you are doing everything in your power for your business to succeed,you may not have the best
+startups resources and tools to help you to get out there to build and sell your products and services.That's where we
+can help.
+
+<img src="assets/sybo/1.png">
+<p>
+<img src="assets/sybo/2.png" width="400">
+<img src="assets/sybo/3.png" width="400">
+</p>
+
+## The Now Massage
+
+Massage therapy has become an increasingly popular form of relaxation and stress relief in today's busy world. However,
+booking a massage appointment can often be a hassle, requiring multiple phone calls and appointment requests. <br>
+Online
+massage booking web apps have made the process of booking a massage easy and convenient. With just a few clicks, clients
+can browse through a list of massage therapists, compare their rates and services, and book an appointment that fits
+their schedule. <br>
+Online massage booking web apps have made massage therapy more accessible than ever before, allowing
+clients to easily book appointments from their computer or mobile device. As such, online massage booking web apps have
+revolutionized the massage industry, making it easier for clients to access the benefits of massage therapy.
+
+<img src="assets/thenowmassage/1.png">
+<p>
+<img src="assets/thenowmassage/2.png" width="400">
+<img src="assets/thenowmassage/3.png" width="400">
+</p>
+
+## Relaxo
+
+Relaxo is a learning management system (LMS) for students to organize their courses and notes, and manage their time
+more effectively. The software allows the student to take notes and manage important information to create outlines to
+be better prepared for their exams. <br>
+The system has been developed with student input and it is a system for both
+professors and students to use.
+
+<p>
+<img src="assets/relaxo/1.png" width="400">
+<img src="assets/relaxo/1.png" width="400">
+</p>
+<p>
+<img src="assets/relaxo/1.png" width="400">
+<img src="assets/relaxo/1.png" width="400">
 </p>
