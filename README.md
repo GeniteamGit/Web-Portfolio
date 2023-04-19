@@ -280,9 +280,9 @@ professors and students to use.
 
 <p>
 <img src="assets/relaxo/1.png" width="400">
-<img src="assets/relaxo/1.png" width="400">
+<img src="assets/relaxo/2.png.png" width="400">
 </p>
 <p>
-<img src="assets/relaxo/1.png" width="400">
-<img src="assets/relaxo/1.png" width="400">
+<img src="assets/relaxo/3.png.png" width="400">
+<img src="assets/relaxo/4.png.png" width="400">
 </p>
