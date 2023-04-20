@@ -14,7 +14,7 @@ communication skills and our ability to understand their needs and goals. As a t
 clients to ensure that we develop the best possible solutions for their businesses. We take pride in our work and are
 committed to providing exceptional service to our clients.
 
-## GAGE
+# [GAGE]()
 
 Gage is an employee and group engagement tool designed to deliver insights while creating a shared experience.
 Gage transforms team gatherings, surveys and poll taking into an interactive shared experience, while providing valuable
@@ -22,7 +22,7 @@ insights and analytics so you can learn more about your people. <br>
 The product is owned by Activ8 Games & developed by Geniteam as sole development partner. This product was used in
 Local & international conferences online at various levels.
 
-### Main Technologies/Libraries Used
+### [Main Technologies/Libraries Used]()
 
 React.js,
 Firebase,
@@ -53,7 +53,7 @@ sweetalert2,
 <img src="assets/gage/4.png" width="400">
 </p>
 
-## Progress
+# [Progress]()
 
 At enhancing employee engagement and learning through the use of surveys and quizzes related to online gaming. Our
 platform offers a fast-paced and engaging way for employees to learn and assess their knowledge and skills, while also
@@ -63,7 +63,7 @@ leaderboard feature offer multi-level engagement for employees, and our analytic
 employers to improve their training programs. Overall, our platform offers an innovative and effective solution for
 employee training and development.
 
-### Main Technologies/Libraries Used
+### [Main Technologies/Libraries Used]()
 
 React.js,
 Firebase,
@@ -92,7 +92,7 @@ styled-components,
 <img src="assets/progress/4.png" width="400">
 </p>
 
-## Litty
+# [Litty]()
 
 A dynamic platform that allows users to share their stories, connect with others, and
 engage in real-time conversations, as well as read books and listen to audio books. Our app provides a user-friendly
@@ -104,7 +104,7 @@ well as a love for literature. Whether you're an avid reader, a writer, or just 
 others, our app provides a fun and engaging space where you can share your passions, discover new content, and build
 meaningful relationships.
 
-### Main Technologies/Libraries Use
+### [Main Technologies/Libraries Use]()
 
 React.js,
 Firebase,
@@ -133,7 +133,7 @@ uuidv4,
 <img src="assets/litty/4.png" width="400">
 </p>
 
-## Tournament
+# [Tournament]()
 
 In today's world, online gaming has become a popular source of entertainment for people of all ages. With the increasing
 popularity of games, the demand for competitive gameplay has also increased. This is where our project comes in. Our
@@ -144,7 +144,7 @@ creation, match scheduling, and tournament bracket generation. The application c
 making it a versatile tool for game organizers and enthusiasts alike. Overall, our project aims to provide a seamless
 and efficient tournament management experience for gamers worldwide.
 
-### Main Technologies/Libraries Use
+### [Main Technologies/Libraries Use]()
 
 React.js, amazon-cognito-identity-js, antd, aws-sdk, bootstrap, chart.js,
 enzyme, enzyme-adapter-react-16, mdbreact, node-fetch, node-sass, pubnub,
@@ -157,7 +157,7 @@ react-test-renderer, react-tournament-grid, reactstrap, redux, simple-line-icons
 <img src="assets/tournament/2.png" width="400">
 </p>
 
-## Advance
+# [Advance]()
 
 Advance
 Systematic business learning Game with 3 levels of decision making & flow. Detailed Backend with Analytical reports for
@@ -170,7 +170,7 @@ player progress as well as Leaderboard.
 <li>Analytical reports & lot more</li>
 </ul>
 
-### Main Technologies/Libraries Used
+### [Main Technologies/Libraries Used]()
 
 React.js,
 Firebase,
@@ -196,7 +196,7 @@ styled-components,
 <img src="assets/advance/3.png" width="400">
 </p>
 
-## Online Shopping Store
+# [Online Shopping Store]()
 
 In the digital age, online shopping has become an integral part of our daily lives. With the convenience of shopping
 from the comfort of our own homes, the ability to compare prices and products from multiple retailers, and the option to
@@ -215,7 +215,7 @@ revolutionized the way we shop and has become a preferred method for many consum
 <img src="assets/Ecommerce/4.png" width="400">
 </p>
 
-## Hotel Booking App
+# [Hotel Booking App]()
 
 Planning a trip can be an exciting experience, but finding the perfect hotel to stay in can be a daunting task.
 Fortunately, the rise of online hotel booking web apps has made the process of finding and booking accommodation easier
@@ -235,7 +235,7 @@ tool for modern-day travelers.
 <img src="assets/hotel-management/4.png" width="400">
 </p>
 
-## Sybo
+# [Sybo]()
 
 We help startups increase their value and maximize
 their potential as a company.<br>
@@ -252,7 +252,7 @@ can help.
 <img src="assets/sybo/3.png" width="400">
 </p>
 
-## The Now Massage
+# [The Now Massage]()
 
 Massage therapy has become an increasingly popular form of relaxation and stress relief in today's busy world. However,
 booking a massage appointment can often be a hassle, requiring multiple phone calls and appointment requests. <br>
@@ -270,7 +270,7 @@ revolutionized the massage industry, making it easier for clients to access the 
 <img src="assets/thenowmassage/3.png" width="400">
 </p>
 
-## Relaxo
+# [Relaxo]()
 
 Relaxo is a learning management system (LMS) for students to organize their courses and notes, and manage their time
 more effectively. The software allows the student to take notes and manage important information to create outlines to
