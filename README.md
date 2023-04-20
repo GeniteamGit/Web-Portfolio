@@ -335,10 +335,10 @@ others who share their passion for blockchain-based digital assets.
 React.js, Web3, Blockchain, Solidity, Firebase
 
 <p>
-<img src="assets/marketplace/1.png" width="400">
-<img src="assets/marketplace/2.png" width="400">
+<img src="assets/marketplace/1.png" width="400" height="300">
+<img src="assets/marketplace/2.png" width="400" height="300">
 </p>
 <p>
-<img src="assets/marketplace/3.png" width="400">
-<img src="assets/marketplace/4.png" width="400">
+<img src="assets/marketplace/3.png" width="400" height="300">
+<img src="assets/marketplace/4.png" width="400" height="300">
 </p>
