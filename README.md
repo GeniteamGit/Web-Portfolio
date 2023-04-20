@@ -297,6 +297,7 @@ user with the option to download it. This tool is designed to help users easily 
 through the time-consuming process of manually replacing each word.
 
 ### [Main Technologies/Libraries Used](#QuickDoc)
+
 Python,
 Postgres,
 Redis,
@@ -309,4 +310,35 @@ Django,
 <p>
 <img src="assets/quickDoc/3.png" width="400">
 <img src="assets/quickDoc/4.png" width="400">
+</p>
+
+# [NFT-Marketplace](#NFT-Marketplace)
+
+A platform designed for buying, selling, and trading non-fungible tokens (NFTs). Built using the React.js framework and
+powered by Firebase, our marketplace provides users with a secure and seamless experience for minting, staking, listing,
+and offering NFTs. <br>
+With our easy-to-use interface and robust feature set, we aim to create a vibrant community of
+artists, collectors, and enthusiasts, who can showcase their unique creations, discover new works, and connect with
+others who share their passion for blockchain-based digital assets.
+
+### [Features](#NFT-Marketplace)
+<ul>
+<li>Connect Wallet</li>
+<li>Create Nfts</li>
+<li>Minting</li>
+<li>Staking</li>
+<li>Listing</li>
+<li>Offering</li>
+</ul>
+
+### [Main Technologies/Libraries Used](#NFT-Marketplace)
+React.js, Web3, Blockchain, Solidity, Firebase
+
+<p>
+<img src="assets/marketplace/1.png" width="400">
+<img src="assets/marketplace/2.png" width="400">
+</p>
+<p>
+<img src="assets/marketplace/3.png" width="400">
+<img src="assets/marketplace/4.png" width="400">
 </p>
