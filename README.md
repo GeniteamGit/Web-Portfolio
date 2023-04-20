@@ -14,7 +14,7 @@ communication skills and our ability to understand their needs and goals. As a t
 clients to ensure that we develop the best possible solutions for their businesses. We take pride in our work and are
 committed to providing exceptional service to our clients.
 
-# [GAGE]()
+# [GAGE](#GAGE)
 
 Gage is an employee and group engagement tool designed to deliver insights while creating a shared experience.
 Gage transforms team gatherings, surveys and poll taking into an interactive shared experience, while providing valuable
