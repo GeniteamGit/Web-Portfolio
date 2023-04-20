@@ -252,7 +252,7 @@ can help.
 <img src="assets/sybo/3.png" width="400">
 </p>
 
-# [The Now Massage](#The Now Massage)
+# [The-Now-Massage](#The-Now-Massage)
 
 Massage therapy has become an increasingly popular form of relaxation and stress relief in today's busy world. However,
 booking a massage appointment can often be a hassle, requiring multiple phone calls and appointment requests. <br>
