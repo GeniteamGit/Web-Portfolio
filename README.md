@@ -286,3 +286,27 @@ professors and students to use.
 <img src="assets/relaxo/3.png" width="400">
 <img src="assets/relaxo/4.png" width="400">
 </p>
+
+# [QuickDoc](#QuickDoc)
+
+This project is a web application developed using Python, Django, Postgres, and Redis that provides a convenient way to
+replace specific words in Microsoft PowerPoint and Word files. With the help of this application, users can upload their
+PowerPoint or Word files, select the words they want to replace by enclosing them in curly braces ({}) and then define
+the new words to replace them. The application will then generate a new file with the modified words and provide the
+user with the option to download it. This tool is designed to help users easily modify their files without having to go
+through the time-consuming process of manually replacing each word.
+
+### [Main Technologies/Libraries Used](#QuickDoc)
+Python,
+Postgres,
+Redis,
+Django,
+
+<p>
+<img src="assets/quickDoc/1.png" width="400">
+<img src="assets/quickDoc/2.png" width="400">
+</p>
+<p>
+<img src="assets/quickDoc/3.png" width="400">
+<img src="assets/quickDoc/4.png" width="400">
+</p>
