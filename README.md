@@ -196,7 +196,7 @@ styled-components,
 <img src="assets/advance/3.png" width="400">
 </p>
 
-# [Online Shopping Store](#Online Shopping Store)
+# [Online-Shopping-Store](#Online-Shopping-Store)
 
 In the digital age, online shopping has become an integral part of our daily lives. With the convenience of shopping
 from the comfort of our own homes, the ability to compare prices and products from multiple retailers, and the option to
@@ -215,7 +215,7 @@ revolutionized the way we shop and has become a preferred method for many consum
 <img src="assets/Ecommerce/4.png" width="400">
 </p>
 
-# [Hotel Booking App](#Hotel Booking App)
+# [Hotel-Booking-App](#Hotel-Booking-App)
 
 Planning a trip can be an exciting experience, but finding the perfect hotel to stay in can be a daunting task.
 Fortunately, the rise of online hotel booking web apps has made the process of finding and booking accommodation easier
@@ -280,9 +280,9 @@ professors and students to use.
 
 <p>
 <img src="assets/relaxo/1.png" width="400">
-<img src="assets/relaxo/2.png.png" width="400">
+<img src="assets/relaxo/2.png" width="400">
 </p>
 <p>
-<img src="assets/relaxo/3.png.png" width="400">
-<img src="assets/relaxo/4.png.png" width="400">
+<img src="assets/relaxo/3.png" width="400">
+<img src="assets/relaxo/4.png" width="400">
 </p>
